@@ -1,3 +1,16 @@
+# Eat-N-Split
+
+Eat-N-Split is a web application built with create-react-app that allows users to manage and split expenses when dining out with friends or family. It simplifies the process of recording who paid for what and how to divide the costs, making it easier for groups to settle their bills.
+
+## Features
+- Record expenses for a group meal, including items and their costs.
+- Automatically calculate how to divide the expenses among participants.
+- Track who owes and is owed money within the group.
+- Easily settle bills and view transaction history.
+
+## Technologies Used
+- React for the frontend user interface.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
